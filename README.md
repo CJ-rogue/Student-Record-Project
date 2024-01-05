@@ -1,6 +1,7 @@
 # Simple Ordering Project
 
-<img width="545" alt="image" src="https://github.com/CJ-rogue/Simple-Ordering-Project/assets/137157404/a8a2d95f-aa69-4c11-bd32-31d7d3a7db55">
+<img width="599" alt="image" src="https://github.com/CJ-rogue/Student-Record-Project/assets/137157404/5825fcb2-949d-4c8a-9bab-5520feed707b">
+
 
 
 ## Table of Contents:
